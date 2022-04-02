@@ -1,12 +1,12 @@
 fieldset
 {
-	background-color: #ccc;
-	border-style: outset;
+  background-color: #ccc;
+  border-style: outset;
 }
 input
 {
-	border-radius: 10px;
-	border-style: outset;
-	background-color: #ddd;
+  border-radius: 10px;
+  border-style: outset;
+  background-color: #ddd;
 
 }
