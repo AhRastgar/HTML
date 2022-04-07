@@ -1,12 +1,48 @@
-fieldset
+body
 {
   background-color: #ccc;
-  border-style: outset;
 }
-input
-{
-  border-radius: 10px;
-  border-style: outset;
-  background-color: #ddd;
 
+img
+{
+  width: 40%;
+  border: 5px inset;
+}
+
+table
+{
+  text-align: center;
+  width: 41%;
+  border: inset;
+  border-radius: 8px;
+}
+
+th , td
+{
+  border: outset;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+a:link
+{
+  text-decoration: none;
+  color: #000;
+}
+a:visited
+{
+  background-color: #fff;
+  color: #555;
+}
+a:hover
+{
+  color: #777;
+}
+a:active
+{
+  color: yellow;
+}
+.web:hover
+{
+  border: inset;
 }
